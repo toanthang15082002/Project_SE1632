@@ -1,0 +1,27 @@
+{
+  "name": "node-module",
+  "version": "1.0.0",
+  "description": "khoi tao web server voi Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toanthang15082002/Project_SE1632.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "ThangNT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toanthang15082002/Project_SE1632/issues"
+  },
+  "homepage": "https://github.com/toanthang15082002/Project_SE1632#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
